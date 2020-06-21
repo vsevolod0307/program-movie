@@ -10,9 +10,9 @@ const personalMovieDB = {
     privat: false
 };
 
-const a = prompt('Кто красапета?');
-      b = prompt('На сколько оценитшь себя?');
-      c = prompt('у кого сегодня был СЕКС?');
+const a = prompt('Какой фильм был последним?');
+      b = prompt('На сколько оцените его?');
+      c = prompt('Какой фильм был последним?');
       d = prompt('На сколько оцените его?');
 
 
